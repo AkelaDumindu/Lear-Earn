@@ -1,0 +1,139 @@
+
+.logo{
+    width: 14%;
+    height: 14%;
+}
+
+
+/* navbar */
+
+
+.navbar{
+    background-color: transparent;
+    width: 100%;
+    height: 50px;
+}
+.n-link{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    padding: 2px 20px;
+    border-radius: 20px;
+    background-color: #00dd00;
+    margin: 0 10px;
+}
+
+.con-row{
+    margin-left: 25px;
+}
+/*.register{*/
+/*    padding: 1px 20px;*/
+/*    background-color: transparent;*/
+/*    border: 3px solid #00dd00;*/
+/*    color: ;*/
+/*}*/
+.cart{
+    text-decoration: none;
+    margin-left: 200px;
+    margin-right: 15px;
+}
+.cart sup{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: #00dd00;
+}
+.tprice{
+    padding-left: 0px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+.form-control{
+    width: 264px;
+    height: 28px;
+    border-radius: 20px;
+    opacity: 60%;
+    font-size: 16px;
+}
+.form-control::placeholder{
+    color: rgba(0, 0, 0, 0.407);
+    padding-left: 2px;
+}
+.btn{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    padding: 2px 20px;
+    border-radius: 20px;
+    background-color: #00dd00b7;
+    margin: 0 10px;
+    border: 0;
+}
+.n-link:hover{
+    color: black;
+    background-color: white;
+}
+.btn:hover{
+    background-color: #00dd00;
+}
+
+/**********Second Child*************/
+.welcome{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    padding: 2px 20px;
+    border-radius: 20px;
+    background-color: #00dd00;
+    margin: 0 0 0 10px;
+}
+.sec-log{
+    background-color: black;
+    padding-bottom: 5px;
+
+}
+.item-log{
+    margin-top: 2px;
+}
+
+
+/*******third Child*********/
+
+.third{
+    text-align: center;
+
+}
+
+.re-product{
+    margin-top: 50px;
+}
+
+
+
+
+/*.register:hover{*/
+/*    color: white;*/
+/*    background-color: #00dd00;*/
+/*}*/
+/* navbar end */
+
+
+
+
+/*.btn-login{*/
+/*    font-size: 16px;*/
+/*    font-weight: 500;*/
+/*    color: white;*/
+/*    padding: 2px 20px;*/
+/*    border-radius: 20px;*/
+/*    background-color: black;*/
+/*}*/
+/*.btn-login:hover{*/
+/*    color: black;*/
+/*    background-color: white;*/
+/*}*/
+/* end of heading */
