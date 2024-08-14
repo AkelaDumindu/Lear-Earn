@@ -1,6 +1,6 @@
 Welcome to Learn&Earn, a platform where education and e-commerce converge in a seamless and enriching experience. Going beyond conventional boundaries, our project is a gateway to both product exploration and continuous learning.
 
-At Learn&Earn, our mission is clear: to seamlessly blend education with e-commerce, providing users with not just products but also valuable insights. This unique fusion is made possible by leveraging cutting-edge technologies. The front-end is crafted with HTML, CSS, and JavaScript, ensuring a user-friendly interface that captivates and engages. Meanwhile, the robust back-end is powered by PHP, securing the platform's functionality and responsiveness.
+At Learn&Earn, our mission is clear to seamlessly blend education with e-commerce, providing users with not just products but also valuable insights. This unique fusion is made possible by leveraging cutting-edge technologies. The front-end is crafted with HTML, CSS, and JavaScript, ensuring a user-friendly interface that captivates and engages. Meanwhile, the robust back-end is powered by PHP, securing the platform's functionality and responsiveness.
 
 Behind the scenes, the efficiency of MySQL drives our database management, ensuring a smooth and reliable user experience. As you explore our GitHub repository, you'll discover the intricate codebase that brings this vision to life.
 
